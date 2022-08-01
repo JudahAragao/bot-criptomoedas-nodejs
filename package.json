@@ -1,0 +1,15 @@
+{
+  "name": "bot-cripto",
+  "version": "1.0.0",
+  "description": "bot de trade de criptomoedas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r dotenv/config index"
+  },
+  "author": "judaharagao",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1"
+  }
+}
